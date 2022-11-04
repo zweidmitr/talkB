@@ -1,4 +1,4 @@
-package com.zwei.memory;
+package com.zwei.memory.arrays;
 
 public class WhileLoop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.zwei.memory;
+package com.zwei.memory.arrays;
 
 import java.util.Arrays;
 
