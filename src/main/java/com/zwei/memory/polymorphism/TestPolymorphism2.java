@@ -1,4 +1,4 @@
-package com.zwei.memory.Polymorphism;
+package com.zwei.memory.polymorphism;
 
 public class TestPolymorphism2 {
     public static void main(String[] args) {
