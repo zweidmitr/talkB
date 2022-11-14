@@ -1,4 +1,4 @@
-package com.zwei.memory.abstracts;
+package com.zwei.memory.OOP.abstracts;
 
 public class TestAbstract {
     public static void main(String[] args) {

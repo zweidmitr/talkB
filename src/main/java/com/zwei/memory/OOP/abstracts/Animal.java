@@ -1,4 +1,4 @@
-package com.zwei.memory.abstracts;
+package com.zwei.memory.OOP.abstracts;
 
 public abstract class Animal {
     // Abstract - нельзя создать animal как объект

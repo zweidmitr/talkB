@@ -1,4 +1,4 @@
-package com.zwei.memory.inheritance;
+package com.zwei.memory.OOP.inheritance;
 
 public final class Clone extends Jack {
 

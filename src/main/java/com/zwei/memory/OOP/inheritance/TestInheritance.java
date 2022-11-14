@@ -1,4 +1,4 @@
-package com.zwei.memory.inheritance;
+package com.zwei.memory.OOP.inheritance;
 
 public class TestInheritance {
     public static void main(String[] args) {

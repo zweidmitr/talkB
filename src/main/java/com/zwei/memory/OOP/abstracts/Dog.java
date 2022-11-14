@@ -1,6 +1,4 @@
-package com.zwei.memory.abstracts;
-
-import java.sql.SQLOutput;
+package com.zwei.memory.OOP.abstracts;
 
 public class Dog extends Animal {
     @Override
